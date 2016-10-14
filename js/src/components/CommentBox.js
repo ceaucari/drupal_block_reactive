@@ -1,4 +1,4 @@
-import CommentBox from './CommentBox'
+import Comment from './Comment'
 
 // CommentBox component.
 class CommentBox extends React.Component {
