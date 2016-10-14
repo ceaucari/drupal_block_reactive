@@ -2,7 +2,7 @@
   "name": "drupal-block-reactive",
   "version": "1.0.0",
   "description": "A drop of reactivity in Drupal 8",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "private": true,
   "author": "Kalin Chernev",
   "url": "https://github.com/kalinchernev",
