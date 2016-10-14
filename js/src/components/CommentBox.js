@@ -1,3 +1,5 @@
+import CommentBox from './CommentBox'
+
 // CommentBox component.
 class CommentBox extends React.Component {
   constructor() {
