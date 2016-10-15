@@ -22,7 +22,7 @@ This way, developers can play easily without too much hassle of setting up webpa
 
 Now, play with the reactivity by splitting the window into 2 and posting a comment from one to the other. The expected modern behavior :)
 
-If you want to modify the /js, run `npm install` to download dependencies and `npm run dev` to write ES6 code in watch mode.
+If you want to modify the /js, run `npm install` to download dependencies and `gulp` to write ES6 code.
 
 ## Demo
 
